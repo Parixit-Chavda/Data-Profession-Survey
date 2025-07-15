@@ -38,4 +38,4 @@
    ⚖️ Work-Life Balance Sentiment – Gauge chart reflecting an average satisfaction rating of 5.74 out of 10
 
    Scrrenshot:
-   ![image alt]()
+   ![image alt](https://github.com/Parixit-Chavda/Data-Profession-Survey/blob/main/Data%20Proffesion%20Survey.png)
