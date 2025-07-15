@@ -36,3 +36,6 @@
    🚪 Entry Difficulty Assessment – Donut chart capturing how professionals rate the difficulty of entering the data field
 
    ⚖️ Work-Life Balance Sentiment – Gauge chart reflecting an average satisfaction rating of 5.74 out of 10
+
+   Scrrenshot:
+   ![image alt]()
